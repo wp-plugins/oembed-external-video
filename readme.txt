@@ -4,7 +4,7 @@ Donate link: http://www.parorrey.com
 Tags: oEmbed, html5, video, mp4, external video 
 Requires at least: 3.0
 Tested up to: 3.9.1
-Stable tag: 0.2
+Stable tag: 0.3
 License: GPLv2 or later
 
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
@@ -32,8 +32,15 @@ For details: http://www.parorrey.com/solutions/oembed-external-video/
 1. URL to mp4 video file into the post/page
 2. URL to mp4 video file in the BuddyPress Activity feed
 3. mp4 video being displayed in the BuddyPress Activity feed
+4. Plugin settings page
 
 == Changelog ==
+
+= 0.3 =
+* settings screenshot added
+
+= 0.2 =
+* tagging
 
 = 0.1 =
 * initial release
