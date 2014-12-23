@@ -3,8 +3,8 @@ Contributors: parorrey
 Donate link: http://www.parorrey.com
 Tags: oEmbed, html5, video, mp4, external video 
 Requires at least: 3.0
-Tested up to: 3.9.1
-Stable tag: 0.3
+Tested up to: 4.1
+Stable tag: 1.0
 License: GPLv2 or later
 
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
@@ -35,6 +35,9 @@ For details: http://www.parorrey.com/solutions/oembed-external-video/
 4. Plugin settings page
 
 == Changelog ==
+
+= 1.0 =
+* verision capatibility check and update
 
 = 0.3 =
 * settings screenshot added
