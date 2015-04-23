@@ -3,7 +3,7 @@
 Plugin Name: oEmbed External Video
 Plugin URI: http://www.parorrey.com/solutions/oembed-external-video/
 Description: This plugin converts any external mp4 url into HTML5 video tag. This plugins is needed because WordPress oEmbed only converts urls from supported oEmbed providers.
-Version: 1.0
+Version: 1.1
 Author: Ali Qureshi
 Author URI: http://www.parorrey.com
 License: GPLv3
